@@ -24,7 +24,13 @@
       "status": "active",
       "discord_id": "1133677123341660171",
       "device_id": ""
+    },
+    "Vriag06y": {
+      "status": "active",
+      "discord_id": "1133677123341660171"
     }
   },
-  "expiration_times": {}
+  "expiration_times": {
+    "Vriag06y": 1902582142
+  }
 }
