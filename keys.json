@@ -25,17 +25,11 @@
       "discord_id": "1133677123341660171",
       "device_id": ""
     },
-    "Vriag06y": {
-      "status": "active",
-      "discord_id": "1133677123341660171"
-    },
     "Certod": {
       "status": "active",
       "discord_id": "1133677123341660171",
       "device_id": ""
     }
   },
-  "expiration_times": {
-    "Vriag06y": 1902582142
-  }
+  "expiration_times": {}
 }
