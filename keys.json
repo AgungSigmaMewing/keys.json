@@ -21,9 +21,9 @@
       "device_id": "24283dcf41965d4f0ee0461702accb1bcbdc7f0f83b6318ed69123f7587c67f3"
     },
     "D": {
-      "status": "active",
+      "status": "used",
       "discord_id": "1133677123341660171",
-      "device_id": ""
+      "device_id": "a3142b229c5e6594cb47fa9a16c4064852b49544a22279d16ce33b85928fd765"
     }
   },
   "expiration_times": {}
